@@ -38,7 +38,7 @@
   "home.postfilter.option.myvotes": "My Votes",
   "home.postfilter.option.recent": "Recent",
   "home.postfilter.option.trending": "Trending",
-  "home.postinput.description.placeholder": "Describe your innovation",
+  "home.postinput.description.placeholder": "Description",
   "home.postscontainer.label.noresults": "No results matched your search, try something different.",
   "home.postscontainer.label.viewmore": "View more posts",
   "home.postscontainer.query.placeholder": "Search",
