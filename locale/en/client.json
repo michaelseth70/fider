@@ -141,7 +141,7 @@
   "showpost.responseform.text.placeholder": "What's going on with this post? Let your users know what are your plans...",
   "showpost.votespanel.more": "+{extraVotesCount} more",
   "showpost.votespanel.seedetails": "see details",
-  "signin.message.email": "Enter your email address to receive a sign-in link",
+  "signin.message.email": "Enter your email address to receive a log in link",
   "signin.message.emaildisabled": "Email authentication has been disabled by an administrator. If you have an administrator account and need to bypass this restriction, please <0>click here</0>.",
   "signin.message.emailsent": "We have just sent a confirmation link to <0>{email}</0>. Click the link and you’ll be signed in.",
   "signin.message.locked.text": "To reactivate this site, sign in with an administrator account and update the required settings.",
